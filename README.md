@@ -2,7 +2,7 @@
 
 As part of my JavaScript practice, I built a **simple calculator program** that performs basic arithmetic operations using **user input from the browser prompt**.
 
-**🔹 The program asks the user to enter two numbers.
+*🔹 The program asks the user to enter two numbers.
 *🔹 Then it asks for the type of operation (addition, subtraction, multiplication, division, or modulus).
 *🔹 Using a **switch statement**, the program performs the selected operation and displays the result using an alert.
 
