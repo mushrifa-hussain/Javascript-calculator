@@ -7,9 +7,13 @@ The program asks the user to enter two numbers and the type of operation (additi
 While building this, I learned an important JavaScript concept: **prompt() returns values as strings**, so we must convert them to numbers using `Number()` to avoid issues like string concatenation during addition.
 
 This small challenge helped me practice:
+
 • Taking user input using prompt()
+
 • Type conversion in JavaScript
+
 • Using switch statements
+
 • Performing arithmetic operations
 
 Continuing to strengthen my JavaScript fundamentals step by step. 💻
